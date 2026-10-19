@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="66" viewBox="0 0 960 66" role="img" aria-labelledby="title">
+  <title id="title">PH // dev. Da ideia à produção.</title>
+  <path d="M0 1H960" stroke="#C7D6EC"/>
+  <g font-family="'IBM Plex Mono',Consolas,'Liberation Mono',monospace" font-size="13">
+    <text x="0" y="39" fill="#5A6B85" font-weight="700">PH <tspan fill="#2563EB">//</tspan> dev</text>
+    <text x="960" y="39" text-anchor="end" fill="#5A6B85" letter-spacing="1">DA IDEIA À PRODUÇÃO.</text>
+  </g>
+</svg>

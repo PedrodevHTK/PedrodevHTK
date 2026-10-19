@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-labelledby="title desc">
+  <title id="title">Pedro Henrique | Software Engineer e AI Engineer</title>
+  <desc id="desc">Identidade visual de desenho técnico em azul. Desenvolvimento Full Stack, da ideia à produção.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1B2A41" stroke-width="0.7"/></pattern>
+  </defs>
+  <rect width="960" height="340" fill="#0B1220"/>
+  <rect width="960" height="340" fill="url(#grid)" opacity="0.48"/>
+  <g fill="none" stroke="#3B82F6" stroke-width="1.5">
+    <path d="M16 36V16H36M924 16H944V36M16 304V324H36M924 324H944V304"/>
+  </g>
+  <g font-family="'IBM Plex Mono',Consolas,'Liberation Mono',monospace">
+    <text x="48" y="54" fill="#E2E8F0" font-size="19" font-weight="700">PH <tspan fill="#3B82F6">//</tspan> dev</text>
+    <text x="912" y="52" fill="#9CAEC8" font-size="11" letter-spacing="2" text-anchor="end">PROFILE / RESUME</text>
+    <path d="M48 78H912" stroke="#21314D"/>
+    <text x="48" y="116" fill="#3B82F6" font-size="12" letter-spacing="2">00</text>
+    <text x="80" y="116" fill="#9CAEC8" font-size="12" letter-spacing="2">PERFIL PROFISSIONAL</text>
+    <path d="M276 112H912" stroke="#21314D"/>
+    <text x="44" y="194" fill="#E2E8F0" font-size="68" font-weight="700" letter-spacing="-4">Pedro Henrique</text>
+    <text x="48" y="239" fill="#9CAEC8" font-size="24">&gt; <tspan fill="#3B82F6">Software Engineer | AI Engineer</tspan></text>
+    <rect x="530" y="219" width="10" height="24" fill="#3B82F6"/>
+    <text x="48" y="293" fill="#9CAEC8" font-size="15">FULL STACK</text>
+    <circle cx="161" cy="288" r="2" fill="#3B82F6"/>
+    <text x="179" y="293" fill="#9CAEC8" font-size="15">DA IDEIA À PRODUÇÃO</text>
+    <text x="912" y="293" fill="#9CAEC8" font-size="12" text-anchor="end">pmoraes.dev.br ↗</text>
+  </g>
+  <g transform="translate(817 161)" fill="none" stroke="#3B82F6" opacity="0.7">
+    <path d="M-20 0H0V-20M20 0H0V20M-52 0H-38M38 0H52M0-52V-38M0 38V52"/>
+    <circle r="29" stroke-width="0.8"/>
+    <circle r="46" stroke-width="0.6" stroke-dasharray="3 5"/>
+    <circle r="4" fill="#3B82F6" stroke="none"/>
+  </g>
+</svg>
