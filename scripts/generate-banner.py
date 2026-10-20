@@ -1,30 +1,26 @@
 """Render the original animated profile banner. Requires Pillow >= 10.
 
-Uses Consolas on Windows or DejaVu Sans Mono on Linux.
-Pass --font-dir to supply either font family elsewhere. No network requests.
+Uses the attributed IBM Plex Mono fonts in assets/fonts.
+Pass --font-dir to supply the same font family elsewhere. No network requests.
 """
 from argparse import ArgumentParser
 from pathlib import Path
 import math
-import os
 from PIL import Image, ImageDraw, ImageFont
 
 parser = ArgumentParser()
 parser.add_argument('--font-dir', type=Path)
 args = parser.parse_args()
-font_dirs = [args.font_dir] if args.font_dir else [
-    Path(os.environ.get('WINDIR', 'C:/Windows')) / 'Fonts',
-    Path('/usr/share/fonts/truetype/dejavu'),
-]
+font_dirs = [args.font_dir] if args.font_dir else [Path(__file__).resolve().parent.parent / 'assets/fonts']
 
 def font(size, bold=False):
-    names = ['consolab.ttf', 'DejaVuSansMono-Bold.ttf'] if bold else ['consola.ttf', 'DejaVuSansMono.ttf']
+    names = ['IBMPlexMono-Bold.ttf'] if bold else ['IBMPlexMono-Regular.ttf']
     for directory in font_dirs:
         for name in names:
             file = directory / name
             if file.is_file():
                 return ImageFont.truetype(str(file), size)
-    raise SystemExit('Consolas or DejaVu Sans Mono font directory required.')
+    raise SystemExit('Run scripts/fetch-design-assets.py to download IBM Plex Mono.')
 
 W, H = 960, 256
 assets = Path(__file__).resolve().parent.parent / 'assets'

@@ -1,0 +1,162 @@
+[
+  {
+    "path": "assets/vendor/icons/react.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/react/react-original.svg",
+    "sha256": "5825b649c8c04dec13ecf01d0182401bd0ec71789d2fa06224866d882cd1515f"
+  },
+  {
+    "path": "assets/vendor/icons/nextjs.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/nextjs/nextjs-original.svg",
+    "sha256": "d9435c4ede7133b376c0173a80226bb3856729366707cd96e9a66e39448d0288"
+  },
+  {
+    "path": "assets/vendor/icons/typescript.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/typescript/typescript-original.svg",
+    "sha256": "c9191199f4049920c2fc19035b8a6664f37f4689fcd9e8434e786097e78863f0"
+  },
+  {
+    "path": "assets/vendor/icons/tailwindcss.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/tailwindcss/tailwindcss-original.svg",
+    "sha256": "f8cec54589553807eb603bcaf4e056aa090196211698b056542e3cc62a2f3448"
+  },
+  {
+    "path": "assets/vendor/icons/nodejs.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/nodejs/nodejs-original.svg",
+    "sha256": "3218687c5ea24a4d4c0a33dc5c287da38c33a72dcfe9382469d7ce4e0bf661fb"
+  },
+  {
+    "path": "assets/vendor/icons/nestjs.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/nestjs/nestjs-original.svg",
+    "sha256": "97ae5e5666850f1f6119871a4197bef2da3472cd2d40a32e9420792a8bfcd360"
+  },
+  {
+    "path": "assets/vendor/icons/python.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/python/python-original.svg",
+    "sha256": "71493b4a732f0532b3a03a7a95da3ee11a65766367c8303b901ffbe7bf91a3a2"
+  },
+  {
+    "path": "assets/vendor/icons/postgresql.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/postgresql/postgresql-original.svg",
+    "sha256": "f220a436258ed014c512ba4f9c0de6b9e5c2c4b55331a0a29f8c7a1a12c36443"
+  },
+  {
+    "path": "assets/vendor/icons/redis.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/redis/redis-original.svg",
+    "sha256": "4707378b190878f36f7e6e1c01fa3ee7e7884c76101809d191dddd943a2e6bdb"
+  },
+  {
+    "path": "assets/vendor/icons/docker.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/docker/docker-original.svg",
+    "sha256": "3fd830ea69431ed7a0b8d068cd5b34ad3f00a1a78195d50f13ff56713f2462e1"
+  },
+  {
+    "path": "assets/vendor/icons/kubernetes.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/kubernetes/kubernetes-original.svg",
+    "sha256": "fb31e4163238978201cfde0601728ee5168b74e476c32c37739bed626fa281ae"
+  },
+  {
+    "path": "assets/vendor/icons/googlecloud.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/googlecloud/googlecloud-original.svg",
+    "sha256": "1615b3e53228faa14378f1abb2b78e5f6c3f0ec562bc37db3efde885714e6c2f"
+  },
+  {
+    "path": "assets/vendor/icons/terraform.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/terraform/terraform-original.svg",
+    "sha256": "0be6427291ae47f057b75f9010dffd6f58a40f0c83c43606ff68851cef1621dc"
+  },
+  {
+    "path": "assets/vendor/icons/githubactions.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/githubactions/githubactions-original.svg",
+    "sha256": "3a2524052ccf301d1a239f20cfef98d655e060c51cc29c5e94c867913899a47e"
+  },
+  {
+    "path": "assets/vendor/icons/linkedin.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/linkedin/linkedin-original.svg",
+    "sha256": "71d3e25ef4e06ac34f385476cff2cef2757179af665cda086711d211d85610c0"
+  },
+  {
+    "path": "assets/vendor/icons/brain-circuit.svg",
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c29c276f16590cf017126671535ad8c792be64d8/icons/brain-circuit.svg",
+    "sha256": "134231b12f68aca2943d6a7a6aa891dd2e26d89b5658a2c78c7094fbe29797e9"
+  },
+  {
+    "path": "assets/vendor/icons/database-search.svg",
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c29c276f16590cf017126671535ad8c792be64d8/icons/database-search.svg",
+    "sha256": "4214032d6c73f59eab0b12b5c55c167b1e42fcf8bc0a6f7254a09241c94739a9"
+  },
+  {
+    "path": "assets/vendor/icons/layers.svg",
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c29c276f16590cf017126671535ad8c792be64d8/icons/layers.svg",
+    "sha256": "ce16d0a955e3581cda17f6b2fd5c5bc2034b405f9cecc31c8ebb8495b4afc1bb"
+  },
+  {
+    "path": "assets/vendor/icons/briefcase-business.svg",
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c29c276f16590cf017126671535ad8c792be64d8/icons/briefcase-business.svg",
+    "sha256": "98388a2bf7b9d102d77772d125d26f59ea3bed0d8573a5fc8907003099ae9a54"
+  },
+  {
+    "path": "assets/vendor/icons/graduation-cap.svg",
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c29c276f16590cf017126671535ad8c792be64d8/icons/graduation-cap.svg",
+    "sha256": "326b4a1c18429509a697cbc0c49fdfcf9316da34bcf581569c2fc73cc772b86f"
+  },
+  {
+    "path": "assets/vendor/icons/mail.svg",
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c29c276f16590cf017126671535ad8c792be64d8/icons/mail.svg",
+    "sha256": "3236a51d5b8ce9b0528cf2e6ad07e527bd636dded6f5a9d656072052b99caea8"
+  },
+  {
+    "path": "assets/vendor/icons/file-user.svg",
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c29c276f16590cf017126671535ad8c792be64d8/icons/file-user.svg",
+    "sha256": "efe05393a2ee421638bbc8dabfc289cdb71310288f85b015368c296a3f90ce12"
+  },
+  {
+    "path": "assets/vendor/icons/modelcontextprotocol.svg",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/c71c69e3a27e4436936b831c72643e6513b9f49b/icons/modelcontextprotocol.svg",
+    "sha256": "4796bc576053cf2ae4724ea1813d9f4ec05bc671154abdd80a18b790613c7d81"
+  },
+  {
+    "path": "assets/vendor/icons/dbt.svg",
+    "source": "https://raw.githubusercontent.com/dbt-labs/docs.getdbt.com/f5c4986033cfae8c93a1367d6e98fefd479045b0/website/static/img/dbt-logo.svg",
+    "sha256": "c5ba37661581576414d0ef2758e8aa6151ca3751c940d0dbd10c1cd212fbda24"
+  },
+  {
+    "path": "assets/fonts/IBMPlexMono-Regular.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/47d54ca1ebb14fd864695f1d39dc734f39017c33/ofl/ibmplexmono/IBMPlexMono-Regular.ttf",
+    "sha256": "6a3412f058c7d8dfd9170c41e85ade48e5156ecb89356110ca57a0a27734af46"
+  },
+  {
+    "path": "assets/fonts/IBMPlexMono-Bold.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/47d54ca1ebb14fd864695f1d39dc734f39017c33/ofl/ibmplexmono/IBMPlexMono-Bold.ttf",
+    "sha256": "ac27abd6450a64dd94467580a02fe6235156d5b92f2926ebbc8e7489df64e0be"
+  },
+  {
+    "path": "assets/fonts/Manrope.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/47d54ca1ebb14fd864695f1d39dc734f39017c33/ofl/manrope/Manrope%5Bwght%5D.ttf",
+    "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6"
+  },
+  {
+    "path": "assets/licenses/Devicon-LICENSE.txt",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/LICENSE",
+    "sha256": "121194741d4a915b9f5890fdd6dd95121f9b1f816517c792358d72d7c838d664"
+  },
+  {
+    "path": "assets/licenses/Lucide-LICENSE.txt",
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c29c276f16590cf017126671535ad8c792be64d8/LICENSE",
+    "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+  },
+  {
+    "path": "assets/licenses/SimpleIcons-LICENSE.txt",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/c71c69e3a27e4436936b831c72643e6513b9f49b/LICENSE.md",
+    "sha256": "9046848b63a5c92bff14e4accca80bd987e0623b74adf9226ce5198d312b79d5"
+  },
+  {
+    "path": "assets/licenses/IBMPlexMono-OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/47d54ca1ebb14fd864695f1d39dc734f39017c33/ofl/ibmplexmono/OFL.txt",
+    "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da"
+  },
+  {
+    "path": "assets/licenses/Manrope-OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/47d54ca1ebb14fd864695f1d39dc734f39017c33/ofl/manrope/OFL.txt",
+    "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b"
+  }
+]
