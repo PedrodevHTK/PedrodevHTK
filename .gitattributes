@@ -1,0 +1,4 @@
+# Keep downloaded originals byte-for-byte identical to assets/sources.json.
+assets/vendor/** -text
+assets/fonts/** -text
+assets/licenses/** -text
